@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5060ad17_54e7ac0b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000541
+      },
+      "writtenOn": "2023-01-15T07:17:19Z",
+      "side": 1,
+      "message": "for what it\u0027s worth, google seems to have disabled this on pixel",
+      "revId": "fb2071640a58131b775db113ed63c95080dee5e2",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}

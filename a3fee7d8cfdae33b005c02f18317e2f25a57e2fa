@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "997ef179_73cee71e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000092
+      },
+      "writtenOn": "2023-02-08T20:55:30Z",
+      "side": 1,
+      "message": "Commit in common tree is pushed directly by mistake.\nhttps://github.com/AOSPA/android_device_oneplus_sm8250-common/commit/076b8b8c2a613aa8fee2b5501e24b477128d7c2a",
+      "revId": "a3fee7d8cfdae33b005c02f18317e2f25a57e2fa",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
